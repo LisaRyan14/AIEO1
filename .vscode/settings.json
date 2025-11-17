@@ -4,7 +4,11 @@
         "${workspaceFolder}/venv/lib/python3.13/site-packages"
     ],
     "python.analysis.typeCheckingMode": "basic",
-    "jupyter.defaultKernel": "python3"
+    "jupyter.defaultKernel": "python3",
+    "cursorpyright.analysis.extraPaths": [
+        "${workspaceFolder}/venv/lib/python3.13/site-packages"
+    ],
+    "cursorpyright.analysis.typeCheckingMode": "basic"
 }
 
 
