@@ -212,3 +212,11 @@ __marimo__/
 ._*
 .Spotlight-V100
 .Trashes
+
+# Node modules
+node_modules/
+
+# Next.js
+.next/
+.env.local
+.env*.local
