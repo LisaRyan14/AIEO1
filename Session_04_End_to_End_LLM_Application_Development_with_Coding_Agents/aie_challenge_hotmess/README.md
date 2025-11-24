@@ -19,22 +19,22 @@ This application is based on the backend from the AI-Engineer-Challenge: https:/
 You can test the complete application here:
 
 **Basic Applications:**
-- **Backend**: [https://aie-challenge.vercel.app/](https://aie-challenge)
-- **Frontend**: [https://aie-challenge-frontend.vercel.app/](https://aie-challenge-frontend)
+- **Backend**: [https://aie-challenge.vercel.app/](https://aie-challenge.vercel.app/)
+- **Frontend**: [https://aie-challenge-frontend.vercel.app/](https://aie-challenge-frontend.vercel.app/)
 - **GitHub**: 
   - [https://github.com/AI-Maker-Space/The-AI-Engineer-Challenge](https://github.com/AI-Maker-Space/The-AI-Engineer-Challenge)
   - [https://github.com/katgaw/AIM-hot-mess-coach-frontend](https://github.com/katgaw/AIM-hot-mess-coach-frontend)
 
 **Advanced Libraries and UI (Vercel):**
-- **Backend Advanced Libraries and UI**: [https://aie-challenge-advanced.vercel.app/](https://aie-challenge-advanced)
-- **Frontend Advanced Libraries and UI**: [https://aim-hot-mess-coach-frontend.vercel.app/](https://aie-challenge-frontend-advanced-vercel-backend)
+- **Backend Advanced Libraries and UI**: [https://aie-challenge-advanced.vercel.app/](https://aie-challenge-advanced.vercel.app/)
+- **Frontend Advanced Libraries and UI**: [https://aim-hot-mess-coach-frontend.vercel.app/](https://aim-hot-mess-coach-frontend.vercel.app/)
 - **GitHub**: 
   - [https://github.com/katgaw/aie-challenge-advanced](https://github.com/katgaw/aie-challenge-advanced)
   - [https://github.com/katgaw/aie-challenge-frontend-advanced](https://github.com/katgaw/aie-challenge-frontend-advanced)
 
 **Advanced Libraries and UI (Render):**
 - **Render Backend Advanced Libraries and UI**: [https://aie-challenge-advanced.onrender.com/](https://aie-challenge-advanced.onrender.com/)
-- **Frontend Advanced Libraries and UI**: [https://aim-hot-mess-coach-frontend.vercel.app/](https://aie-challenge-frontend-advanced)
+- **Frontend Advanced Libraries and UI**: [https://aim-hot-mess-coach-frontend.vercel.app/](https://aim-hot-mess-coach-frontend.vercel.app/)
 - **GitHub**: 
   - [https://github.com/katgaw/aie-challenge-advanced](https://github.com/katgaw/aie-challenge-advanced)
   - [https://github.com/katgaw/aie-challenge-frontend-advanced](https://github.com/katgaw/aie-challenge-frontend-advanced)
